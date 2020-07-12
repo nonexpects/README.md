@@ -30,7 +30,7 @@ Boost Coding Newbie Challenge
 |                        프로젝트 제목                         |     툴      |        기간         |
 | :----------------------------------------------------------: | :---------: | :-----------------: |
 | [3D RPG  Village Keeper(가제)](https://github.com/nonexpects/Unity_3D_RPG) | Unity 3d C# | 20.06.22 ~ 20.07.09 |
-| [2Cave Story+ 모작](https://github.com/nonexpects/WinAPI32_CaveStory_Project/blob/master/README.md) | WinAPI C++  | 20.04.22 ~ 20.05.18 |
+| [2D Cave Story+ 모작](https://github.com/nonexpects/WinAPI32_CaveStory_Project/blob/master/README.md) | WinAPI C++  | 20.04.22 ~ 20.05.18 |
 | [2D 맵 툴 제작 팀플 프로젝트](https://github.com/sunrise16/Kyungil-TeamProject-Zelda) | WinAPI C++  | 20.04.06 ~ 20.04.16 |
 | [픽셀 충돌 이용 Fortress 모작](https://github.com/nonexpects/-WINAPI-Fortress) | WinAPI C++  | 20.04.03 ~ 20.04.10 |
 | [유니티 2D 슈팅게임](https://github.com/nonexpects/Unity_Project1) |  Unity C#   | 20.06.01 ~ 20.06.12 |
