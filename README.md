@@ -1,11 +1,9 @@
-### 😀 BK Ko
+### 😀 BK KO
 
 Game Programmer
 
 
-
 ------
-
 
 
 ### 🎓 Education
