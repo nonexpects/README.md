@@ -11,7 +11,7 @@ Game Programmer
 
 ### 🎓 Education
 
-Kyoungil Game Academy - Game Programming
+Kyoungil Game Academy - Game Programming Course
 
 2020.02.12 ~ 2020.07.21
 
