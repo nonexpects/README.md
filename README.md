@@ -1,4 +1,4 @@
-### 😀 Bo Kyoung  Ko 
+### 😀 BK Ko
 
 Game Programmer
 
