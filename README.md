@@ -47,7 +47,7 @@ Boost Coding Newbie Challenge
 | [유니티 VR 튜토리얼](https://github.com/nonexpects/Unity_VR_Tutorial) | 📕[너도 만들 수 있어! 유니티 모바일 게임](http://www.yes24.com/Product/Goods/85030638) |      20.05.28       |
 | [유니티 튜토리얼 FPS](https://github.com/nonexpects/Unity_Tutorial_SpaceShooter) | 📕[절대강좌! 유니티 2018](http://www.yes24.com/Product/Goods/60507941?scode=032&OzSrank=2) | 20.05.28 ~ 20.06.04 |
 | [유니티 포톤(PUN2)](https://github.com/nonexpects/Pun2_tuto) |                          🏬학원 수업                          | 20.07.08 ~ 20.07.10 |
-
+| [NGUI 튜토리얼](https://github.com/nonexpects/NGUI_Test) |                          💷[마호마호 강좌](http://blog.naver.com/progagmer/182668467)                          | 20.07.14 |
 
 
 ------
