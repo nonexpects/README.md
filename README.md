@@ -56,7 +56,7 @@ Boost Coding Newbie Challenge
 
 ### Link
 
-Blog : https://velog.io/@acodeam
+Blog : https://claspd.tistory.com/
 
 E-mail : orionx6x@gmail.com
 
